@@ -1,4 +1,4 @@
-#CUDA MNIST digit classifier
+# CUDA MNIST digit classifier
 
 This repository contains code for training and analyzing a simple image classifier for the MNIST dataset using PyTorchon CUDA. The classifier is a fully connected neural network that predicts the digit (0-9) from an input image of a handwritten digit.
 
@@ -37,7 +37,7 @@ The analysis involves identifying and saving the top 10 misclassified samples fr
 
 1. **Clone the repository**:
    ```sh
-   git clone <git_url>
+   git clone https://github.com/klang49/mnist-classifier
    cd mnist-classifier
    ```
 
