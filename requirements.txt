@@ -3,3 +3,4 @@ torchvision
 datasets
 Pillow
 matplotlib
+ipykernel
